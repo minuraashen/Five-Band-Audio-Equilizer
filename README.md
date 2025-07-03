@@ -1,6 +1,10 @@
 # 🎚️ Five Band Analog Audio Equalizer
 
-This is a university hardware project involving the design and implementation of a **five-band analog audio equalizer** for real-time tonal control across the full audio spectrum (20 Hz – 20 kHz).
+This project was developed as part of the **EN2091 – Laboratory Practice and Projects** module at the **Department of Electronic and Telecommunication Engineering**, University of Moratuwa.
+
+It is a **group project** focused on the design, simulation, and implementation of a fully functional **five-band analog audio equalizer** for real-time tonal control across the full audio spectrum (20 Hz – 20 kHz).
+
+The system enables users to boost or attenuate specific frequency ranges (bass, midrange, treble, etc.) using dedicated multiple-feedback (MFB) filters and adjustable gain stages for each band. Additionally, LED bar graph displays provide real-time visual feedback on the output level of each band, enhancing usability and monitoring.
 
 ## 🔧 Project Highlights
 
