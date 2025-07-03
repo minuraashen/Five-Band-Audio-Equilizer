@@ -31,14 +31,22 @@ This is a university hardware project involving the design and implementation of
 
 | Name                  | Contribution                                |
 |-----------------------|---------------------------------------------|
-| Minura Samaramanna    | Circuit design, simulation, documentation   |
-| Nirwan Kuruppu        | Equalizer PCB design, testing & debugging   |
-| Bandara               | Display & Power PCB design, testing         |
-| Jayatissa             | Enclosure design, testing                   |
+| Minura Ashen(me)    | Circuit design, simulation, PCB testing and debugging, documentation |
+| Ravindu Kuruppuarachchi  | Equalizer PCB design, testing & debugging   |
+| Kaveeshwara Bandara  | Display & Power PCB design, testing  |
+| Nirwan Jayatissa   | Enclosure design, testing  |
 
 ## 📸 Project Gallery
 
 (Insert images or gifs of the PCB, simulations, final product here)
 
-## 📁 Folder Structure
+
+## 📚 References
+
+- [TL072 Datasheet – Texas Instruments](https://www.ti.com/product/TL072)
+- [LM3914 Datasheet – Texas Instruments](https://www.ti.com/product/LM3914)
+- [Butterworth Filter Theory](https://www.analog.com/media/en/training-seminars/design-handbooks/Basic-Linear-Design/Chapter8.pdf)
+
+---
+
 
