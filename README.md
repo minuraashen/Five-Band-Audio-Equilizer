@@ -40,10 +40,6 @@ The system enables users to boost or attenuate specific frequency ranges (bass, 
 | Kaveeshwara Bandara  | Display & Power PCB design, testing  |
 | Nirwan Jayatissa   | Enclosure design, testing  |
 
-## 📸 Project Gallery
-
-(Insert images or gifs of the PCB, simulations, final product here)
-
 
 ## 📚 References
 
